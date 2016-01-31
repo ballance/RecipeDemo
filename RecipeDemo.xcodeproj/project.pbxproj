@@ -52,7 +52,7 @@
 		124671B71C5E6C1300D3B770 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		124671C51C5EAC3900D3B770 /* Cheese.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Cheese.jpg; path = Assets.xcassets/Cheese.jpg; sourceTree = "<group>"; };
 		124671C91C5EB04200D3B770 /* AddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
-		124671CB1C5EB06900D3B770 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailViewController.swift; path = ../DetailViewController.swift; sourceTree = "<group>"; };
+		124671CB1C5EB06900D3B770 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -494,6 +494,7 @@
 				124671BC1C5E6C1300D3B770 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		124671BD1C5E6C1300D3B770 /* Build configuration list for PBXNativeTarget "RecipeDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +503,7 @@
 				124671BF1C5E6C1300D3B770 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		124671C01C5E6C1300D3B770 /* Build configuration list for PBXNativeTarget "RecipeDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +512,7 @@
 				124671C21C5E6C1300D3B770 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
