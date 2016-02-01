@@ -17,6 +17,7 @@
 		124671C61C5EAC3900D3B770 /* Cheese.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 124671C51C5EAC3900D3B770 /* Cheese.jpg */; };
 		124671CA1C5EB04200D3B770 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124671C91C5EB04200D3B770 /* AddViewController.swift */; };
 		124671CC1C5EB06900D3B770 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124671CB1C5EB06900D3B770 /* DetailViewController.swift */; };
+		127636EF1C5F1FA100A34CB3 /* MyCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127636EE1C5F1FA100A34CB3 /* MyCustomCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		124671C51C5EAC3900D3B770 /* Cheese.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Cheese.jpg; path = Assets.xcassets/Cheese.jpg; sourceTree = "<group>"; };
 		124671C91C5EB04200D3B770 /* AddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 		124671CB1C5EB06900D3B770 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		127636EE1C5F1FA100A34CB3 /* MyCustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCustomCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				124671971C5E6C1200D3B770 /* ViewController.swift */,
 				124671C91C5EB04200D3B770 /* AddViewController.swift */,
 				124671991C5E6C1200D3B770 /* Main.storyboard */,
+				127636EE1C5F1FA100A34CB3 /* MyCustomCell.swift */,
 				1246719C1C5E6C1200D3B770 /* Assets.xcassets */,
 				124671C51C5EAC3900D3B770 /* Cheese.jpg */,
 				1246719E1C5E6C1200D3B770 /* LaunchScreen.storyboard */,
@@ -267,6 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				124671981C5E6C1200D3B770 /* ViewController.swift in Sources */,
+				127636EF1C5F1FA100A34CB3 /* MyCustomCell.swift in Sources */,
 				124671961C5E6C1200D3B770 /* AppDelegate.swift in Sources */,
 				124671CA1C5EB04200D3B770 /* AddViewController.swift in Sources */,
 				124671CC1C5EB06900D3B770 /* DetailViewController.swift in Sources */,
